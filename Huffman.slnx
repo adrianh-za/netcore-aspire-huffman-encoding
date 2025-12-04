@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Huffman.Api/Huffman.Api.csproj" />
+  <Project Path="Huffman.AppHost/Huffman.AppHost.csproj" />
+  <Project Path="Huffman.Core/Huffman.Core.csproj" />
+  <Project Path="Huffman.ServiceDefaults/Huffman.ServiceDefaults.csproj" />
+  <Project Path="Huffman.Tests/Huffman.Tests.csproj" />
+</Solution>
