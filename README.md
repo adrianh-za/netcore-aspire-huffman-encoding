@@ -2,6 +2,15 @@
 
 A modern ASP.NET Core API for encoding and decoding text using Huffman compression. This project exposes endpoints for compressing text with Huffman coding and decoding previously compressed data. The API provides responses in an easy-to-consume format and includes metadata to ensure accurate round-trip compression and decompression.
 
+<img width="1550" height="549" alt="image" src="https://github.com/user-attachments/assets/43e144ea-0e40-4e07-8410-3aca169b7d99" />
+
+
+<img width="1550" height="978" alt="image" src="https://github.com/user-attachments/assets/b21b5b36-5d0a-4876-96c2-81994477a1f7" />
+
+
+<img width="1550" height="806" alt="image" src="https://github.com/user-attachments/assets/65a2898f-6d14-4ded-b0a2-1628a62d3966" />
+
+
 ## Features
 
 - **Huffman Text Compression API**  
