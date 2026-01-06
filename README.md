@@ -33,7 +33,10 @@ A modern ASP.NET Core API for encoding and decoding text using Huffman compressi
 ### Endpoints
 
 - `POST /huffman/encode`  
-  Compresses a string using Huffman coding. Returns the compressed data as a Base64-encoded string and the original length.
+  Compresses a string using Huffman coding. Returns the compressed data as a Base64-encoded string, encoded length, and the original length.
+
+- `POST /huffman/encode-base64`  
+  Compresses a base64 string using Huffman coding. Returns the compressed data as a Base64-encoded string, encoded length, and the original length.
 
 - `POST /huffman/decode`  
   Decompresses a Base64-encoded Huffman-encoded payload and returns the decoded string.
