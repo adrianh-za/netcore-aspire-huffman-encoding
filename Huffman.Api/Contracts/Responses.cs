@@ -19,6 +19,7 @@ public sealed record EncodeResponse
 {
     public required string Base64Text { get; init; }
     public required int OriginalLength { get; init; }
+    public required int EncodedLength { get; init; }
 }
 
 public sealed record DecodeResponse
